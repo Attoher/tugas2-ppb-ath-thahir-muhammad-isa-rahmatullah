@@ -1,5 +1,7 @@
 # mynewapps
 
+![Widgets_tree](assets/Widgets_tree.png)
+
 A new Flutter project.
 
 ## Getting Started
